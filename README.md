@@ -16,8 +16,8 @@ and predicts whether the sentiment is <b>Positive</b> or <b>Negative</b> using M
 
 ## 📌 Table of Contents
 
-* ✨ Features
 * 🧠 Project Overview
+* ✨ Features
 * ⚙️ Tech Stack
 * 📂 Project Structure
 * 🔄 NLP Pipeline
@@ -28,17 +28,6 @@ and predicts whether the sentiment is <b>Positive</b> or <b>Negative</b> using M
 * 🧩 Skills Demonstrated
 * 🔮 Future Improvements
 * 🧑‍💻 Author
-
----
-
-## ✨ Features
-
-* 📚 Sentiment analysis on Kindle reviews
-* 🔍 Text preprocessing using NLP techniques
-* ⚡ TF-IDF feature extraction
-* 🤖 Machine Learning classification model
-* 🌐 Interactive Streamlit web application
-* 🎯 Clean UI with custom styling
 
 ---
 
@@ -54,6 +43,15 @@ The goal is to understand user sentiment from Kindle reviews and showcase strong
 * Application deployment
 
 The project bridges **Machine Learning + NLP + UI development**, reflecting real-world AI application building.
+
+## ✨ Features
+
+* 📚 Sentiment analysis on Kindle reviews
+* 🔍 Text preprocessing using NLP techniques
+* ⚡ TF-IDF feature extraction
+* 🤖 Machine Learning classification model
+* 🌐 Interactive Streamlit web application
+* 🎯 Clean UI with custom styling
 
 ---
 
